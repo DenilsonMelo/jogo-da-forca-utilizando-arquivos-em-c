@@ -11,3 +11,5 @@ Jogo proposto pela disciplina de Estrutura de Dados I.
 - As instruções e opções do jogo será exibida na página inicial do programa.
 
 - Bom jogo!
+
+Por Denilson Melo e Lucas Pimenta.
